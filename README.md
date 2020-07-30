@@ -117,4 +117,4 @@ Steps:
 
 ## License
 
-The content of this project itself is licensed under [GNU LGPL, Version 3 (LGPL-3.0.)]((https://github.com/dltk-ai/Computer-Vision/blob/master/LICENSE))
+The content of this project itself is licensed under [GNU LGPL, Version 2.1 (LGPL-2.1)](https://github.com/dltk-ai/Computer-Vision/blob/master/LICENSE)
